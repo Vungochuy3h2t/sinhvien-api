@@ -1,0 +1,18 @@
+{ 
+    "sinhvien": [
+      { "id": 1,
+        "hovaten": "Vũ Ngọc Huy",
+        "ngaythangsinh": "25-10-2000",
+        "diemtbk1": "3.3"
+      },
+      { "id": 1,
+        "hovaten": "Trần văn Tèo",
+        "ngaythangsinh": "5-1-2000",
+        "diemtbk1": "2.7"
+      },
+      { "id": 1,
+        "hovaten": "Phạm Văn Ngố",
+        "ngaythangsinh": "2-1-2000",
+        "diemtbk1": "3.1"
+      }]
+}
