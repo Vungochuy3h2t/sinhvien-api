@@ -1,0 +1,24 @@
+{
+  "name": "cd",
+  "version": "1.0.0",
+  "description": "Sinhvien API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vungochuy3h2t/sinhvien-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vungochuy3h2t/sinhvien-api/issues"
+  },
+  "homepage": "https://github.com/Vungochuy3h2t/sinhvien-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "server": "^1.0.36"
+  }
+}
